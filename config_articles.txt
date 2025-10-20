@@ -1,9 +1,10 @@
 url_lien = https://walensky-shop.fr/collections/tableau-pour-salle-de-bain
-ancre_lien = tableaux pour Salle d’attente 
-tags = Salle d’attente 
-collection_id = 646759612750
+ancre_lien = tableaux pour Salle de bain 
+tags = Salle de bain 
+collection_id = 645541495118
 
 
-BLOG_ID=115690897742
+BLOG_ID=115690930510
+
 
 
